@@ -1,4 +1,4 @@
-import menu_xx from './data_xx.js';
+import menu_xx from './data_86.js';
 
 const sectionCenter = document.querySelector('.menu-center');
 const btnContainer = document.querySelector('.btn-center');

@@ -1,4 +1,4 @@
-import { data1 } from './data_xx.js';
+import { data1 } from './data_86.js';
 const result1 = document.querySelector('.result1');
 const result2 = document.querySelector('.result2');
 console.log('data1', data1);
